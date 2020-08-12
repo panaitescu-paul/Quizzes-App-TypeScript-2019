@@ -1,1 +1,1 @@
-# QuizzesApp-2019
+# Quizzes App - TypeScript - 2019
